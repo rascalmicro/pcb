@@ -326,87 +326,124 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Thermopyla\BGA Escape Route - Rascal.html
+[Document21]
+DocumentPath=Libraries\SST SST25VFxxxx serial flash.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[GeneratedDocument2]
+[Document22]
+DocumentPath=Libraries\Samtec FSI connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document23]
+DocumentPath=Libraries\DPAK-3.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[GeneratedDocument1]
 DocumentPath=Bill of Materials-Rascal.xls
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Thermopyla\Board Information - Rascal.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Thermopyla\Design Rule Check - Rascal.html
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Thermopyla\Net Status - Rascal.html
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument2]
 DocumentPath=Pick Place for Rascal.txt
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Rascal\Rascal 0.3 BOM.xls
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=..\Rascal-BOM-for-Dave-10k-units.xls
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Rascal.DRL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Rascal.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Rascal.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Rascal.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Rascal.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Rascal.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Rascal.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Rascal.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Rascal.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Rascal.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Rascal.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Rascal.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=Rascal.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=Rascal.REP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=Rascal.TXT
 DItemRevisionGUID=
 
@@ -440,6 +477,126 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
+
+[Generic_SignalIntegritySimulation]
+SignalIntegrityInitialised=-1
+TrackImpedance=100
+TrackLength=20000000
+UseManhattan=-1
+UseSupplyNetsRules=-1
+SupplyNetsCount=0
+UseStimulusRules=-1
+StimKind=1
+StimLevel=0
+StimStartTime=1E-8
+StimStopTime=6E-8
+StimPeriodTime=1E-7
+
+[Generic_SignalIntegrityPanelSetup]
+TerminationName0=No Termination
+TerminationEnabled0=True
+TerminationSweeps0=1
+TerminationName1=Serial Res
+TerminationEnabled1=False
+TerminationSweeps1=10
+TerminationName2=Parallel Res to VCC
+TerminationEnabled2=False
+TerminationSweeps2=10
+TerminationName3=Parallel Res to GND
+TerminationEnabled3=False
+TerminationSweeps3=10
+TerminationName4=Parallel Res to VCC & GND
+TerminationEnabled4=False
+TerminationSweeps4=10
+TerminationName5=Parallel Cap to GND
+TerminationEnabled5=False
+TerminationSweeps5=10
+TerminationName6=Res and Cap to GND
+TerminationEnabled6=False
+TerminationSweeps6=10
+TerminationName7=Parallel Schottky Diodes
+TerminationEnabled7=False
+TerminationSweeps7=10
+TerminationMinR10=0
+TerminationMaxR10=0
+TerminationPrefR10=0
+TerminationMinR20=0
+TerminationMaxR20=0
+TerminationPrefR20=0
+TerminationMinC0=0
+TerminationMaxC0=0
+TerminationPrefC0=0
+TerminationVCC0=0
+TerminationMinR11=25
+TerminationMaxR11=150
+TerminationPrefR11=47
+TerminationMinR21=0
+TerminationMaxR21=0
+TerminationPrefR21=0
+TerminationMinC1=0
+TerminationMaxC1=0
+TerminationPrefC1=0
+TerminationVCC1=0
+TerminationMinR12=50
+TerminationMaxR12=200
+TerminationPrefR12=100
+TerminationMinR22=0
+TerminationMaxR22=0
+TerminationPrefR22=0
+TerminationMinC2=0
+TerminationMaxC2=0
+TerminationPrefC2=0
+TerminationVCC2=5
+TerminationMinR13=0
+TerminationMaxR13=0
+TerminationPrefR13=0
+TerminationMinR23=50
+TerminationMaxR23=200
+TerminationPrefR23=100
+TerminationMinC3=0
+TerminationMaxC3=0
+TerminationPrefC3=0
+TerminationVCC3=0
+TerminationMinR14=50
+TerminationMaxR14=200
+TerminationPrefR14=100
+TerminationMinR24=50
+TerminationMaxR24=200
+TerminationPrefR24=100
+TerminationMinC4=0
+TerminationMaxC4=0
+TerminationPrefC4=0
+TerminationVCC4=5
+TerminationMinR15=0
+TerminationMaxR15=0
+TerminationPrefR15=0
+TerminationMinR25=0
+TerminationMaxR25=0
+TerminationPrefR25=0
+TerminationMinC5=2.35E-11
+TerminationMaxC5=9.4E-11
+TerminationPrefC5=4.7E-11
+TerminationVCC5=0
+TerminationMinR16=0
+TerminationMaxR16=0
+TerminationPrefR16=0
+TerminationMinR26=34
+TerminationMaxR26=136
+TerminationPrefR26=68
+TerminationMinC6=5E-11
+TerminationMaxC6=2E-10
+TerminationPrefC6=1E-10
+TerminationVCC6=0
+TerminationMinR17=0
+TerminationMaxR17=0
+TerminationPrefR17=0
+TerminationMinR27=0
+TerminationMaxR27=0
+TerminationPrefR27=0
+TerminationMinC7=0
+TerminationMaxC7=0
+TerminationPrefC7=0
+TerminationVCC7=5
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -758,63 +915,63 @@ Name=Report Outputs
 Description=
 TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=BOM_PartType
-OutputName1=Bill of Materials
+OutputType1=Script
+OutputName1=Script Output
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
-Configuration1_Name1=Filter
-Configuration1_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration1_Name2=General
-Configuration1_Item2=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=Rascal BOM template.xlt|BatchMode=5|FormWidth=1825|FormHeight=1177|SupplierProdQty=8|SupplierAutoQty=True|SupplierUseCachedPricing=True|SupplierCurrency=<none>
-Configuration1_Name3=GroupOrder
-Configuration1_Item3=Supplier Part Number 1=True
-Configuration1_Name4=OutputConfigurationParameter1
-Configuration1_Item4=Record=BOMPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False
-Configuration1_Name5=SortOrder
-Configuration1_Item5=Designator=Up
-Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100|Supplier Part Number 1=158|Supplier Unit Price 1=171|Supplier Subtotal 1=239|Supplier 1=100|Manufacturer 1=100|Manufacturer Part Number 1=100
-OutputType2=ComponentCrossReference
-OutputName2=Component Cross Reference Report
+OutputType2=ReportHierarchy
+OutputName2=Report Project Hierarchy
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=Design Rules Check
-OutputName3=Design Rules Check
+OutputType3=SinglePinNetReporter
+OutputName3=Report Single Pin Nets
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
-OutputType4=Electrical Rules Check
-OutputName4=Electrical Rules Check
+OutputType4=SimpleBOM
+OutputName4=Simple BOM
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
-OutputType5=ReportHierarchy
-OutputName5=Report Project Hierarchy
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=SimpleBOMView|SimpleBOMMode=0
+OutputType5=ComponentCrossReference
+OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=Script
-OutputName6=Script Output
+OutputType6=BOM_PartType
+OutputName6=Bill of Materials
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=SimpleBOM
-OutputName7=Simple BOM
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+Configuration6_Name1=Filter
+Configuration6_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration6_Name2=General
+Configuration6_Item2=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=Rascal BOM template.xlt|BatchMode=5|FormWidth=1825|FormHeight=1177|SupplierProdQty=8|SupplierAutoQty=True|SupplierUseCachedPricing=True|SupplierCurrency=<none>
+Configuration6_Name3=GroupOrder
+Configuration6_Item3=Supplier Part Number 1=True
+Configuration6_Name4=OutputConfigurationParameter1
+Configuration6_Item4=Record=BOMPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False
+Configuration6_Name5=SortOrder
+Configuration6_Item5=Designator=Up
+Configuration6_Name6=VisibleOrder
+Configuration6_Item6=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100|Supplier Part Number 1=158|Supplier Unit Price 1=171|Supplier Subtotal 1=239|Supplier 1=100|Manufacturer 1=100|Manufacturer Part Number 1=100
+OutputType7=Electrical Rules Check
+OutputName7=Electrical Rules Check
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-Configuration7_Name1=OutputConfigurationParameter1
-Configuration7_Item1=Record=SimpleBOMView|SimpleBOMMode=0
-OutputType8=SinglePinNetReporter
-OutputName8=Report Single Pin Nets
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+OutputType8=Design Rules Check
+OutputName8=Design Rules Check
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 
 [OutputGroup7]
 Name=Other Outputs

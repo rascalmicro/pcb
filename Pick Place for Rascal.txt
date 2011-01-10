@@ -1,144 +1,158 @@
 Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
 
-RA9        742C083               2960mil       1825mil       2960mil       1825mil   2991.496mil   1777.756mil  T         90.00 RESISTOR ARRAY 
-RA14       742C083               2880mil       1980mil       2880mil       1980mil   2911.496mil   1932.756mil  T         90.00 RESISTOR ARRAY 
-RA13       742C083               2840mil       2120mil       2840mil       2120mil   2871.496mil   2072.756mil  T         90.00 RESISTOR ARRAY 
-RA12       742C083               3242mil       1840mil       3242mil       1840mil   3273.496mil   1792.756mil  T         90.00 RESISTOR ARRAY 
-RA11       742C083               2960mil       1640mil       2960mil       1640mil   2991.496mil   1592.756mil  T         90.00 RESISTOR ARRAY 
-RA10       742C083               2840mil       1740mil       2840mil       1740mil   2871.496mil   1692.756mil  T         90.00 RESISTOR ARRAY 
-RA8        742C083               2580mil       1400mil       2580mil       1400mil   2611.496mil   1352.756mil  T         90.00 RESISTOR ARRAY 
-RA7        742C083               2440mil       1340mil       2440mil       1340mil   2471.496mil   1292.756mil  T         90.00 RESISTOR ARRAY 
-RA6        742C083               4280mil       1260mil       4280mil       1260mil   4248.504mil   1307.244mil  T        270.00 RESISTOR ARRAY 
-RA5        742C083               4280mil       1740mil       4280mil       1740mil   4248.504mil   1787.244mil  T        270.00 RESISTOR ARRAY 
-RA4        742C083               4280mil       1420mil       4280mil       1420mil   4248.504mil   1467.244mil  T        270.00 RESISTOR ARRAY 
-RA3        742C083               4280mil       1580mil       4280mil       1580mil   4248.504mil   1627.244mil  T        270.00 RESISTOR ARRAY 
-RA2        742C083               4840mil       1900mil       4840mil       1900mil   4808.504mil   1947.244mil  T        270.00 RESISTOR ARRAY 
-RA1        742C083               4660mil       1900mil       4660mil       1900mil   4628.504mil   1947.244mil  T        270.00 RESISTOR ARRAY 
-J7         PJ-102AH           5922.11mil    2862.52mil       5804mil       2770mil       5804mil       2770mil  T        270.00 CENTER POSITIVE 2.1 MM POWER JACK
-R79        RESC2012N             4380mil       2980mil       4380mil       2980mil   4344.567mil       2980mil  T        360.00 Res3           
-R78        RESC2012N             6160mil       2500mil       6160mil       2500mil   6195.434mil       2500mil  T        180.00 Res3           
-D3         CD2012-0805           4220mil       2980mil       4220mil       2980mil   4182.599mil       2980mil  T        360.00 LED2           
-D2         CD2012-0805           6080mil       2380mil       6080mil       2380mil   6042.599mil       2380mil  T        360.00 LED2           
-J6         HDR1X8                2810mil       1100mil       2460mil       1100mil       2460mil       1100mil  T        360.00 ARDUINO_DIGITAL_HIGH_BYTE
-J5         HDR1X8                1950mil       1100mil       1600mil       1100mil       1600mil       1100mil  T        360.00 ARDUINO_DIGITAL_LOW_BYTE
-J4         HDR1X6                2550mil       3000mil       2800mil       3000mil       2800mil       3000mil  T        180.00 ARDUINO_SHIELD_POWER
-J3         HDR1X6                1850mil       3000mil       2100mil       3000mil       2100mil       3000mil  T        180.00 ARDUINO_ANALOG_IN
-R77        RESC2012N             3580mil       2500mil       3580mil       2500mil       3580mil   2535.434mil  T        270.00 Res3           
-J2         SBH11                 1998mil       1806mil       1873mil       1356mil       1873mil       1356mil  B        270.00 ARM JTAG HEADER
-S1         B3F-1000              3860mil       2900mil       3860mil       2900mil   3987.953mil   2811.417mil  T         90.00 SW-PB          
-R76        RESC2012N             3820mil       2720mil       3820mil       2720mil   3784.566mil       2720mil  T        360.00 Res3           
-R75        RESC2012N             3680mil   2619.999mil       3680mil       2620mil       3680mil   2655.432mil  T        270.00 Res3           
-R74        RESC2012N             3360mil       2540mil       3360mil       2540mil   3324.566mil       2540mil  T        360.00 Res3           
-R73        RESC2012N         1580.001mil       1460mil       1580mil       1460mil   1544.568mil       1460mil  T        360.00 Res3           
-R72        RESC2012N             1560mil   1900.001mil       1560mil       1900mil       1560mil   1864.568mil  T         90.00 Res3           
-R71        RESC2012N             1660mil   1760.001mil       1660mil       1760mil       1660mil   1724.568mil  T         90.00 Res3           
-R70        RESC2012N             1560mil   2060.001mil       1560mil       2060mil       1560mil   2024.568mil  T         90.00 Res3           
-R69        RESC2012N             1580mil   1560.001mil       1580mil       1560mil       1580mil   1524.568mil  T         90.00 Res3           
-R68        RESC2012N             3260mil   2319.999mil       3260mil       2320mil       3260mil   2355.432mil  T        270.00 Res3           
-R67        RESC2012N             5200mil   2079.999mil       5200mil       2080mil       5200mil   2115.432mil  T        270.00 Res3           
-R66        RESC2012N             4260mil       2060mil       4260mil       2060mil   4224.567mil       2060mil  T        360.00 Res3           
-L5         INDC2012L             5300mil       2080mil       5300mil       2080mil   5331.496mil       2080mil  T        180.00 Inductor       
-L4         INDC2012L         4319.999mil       1980mil       4320mil       1980mil   4351.495mil       1980mil  T        180.00 Inductor       
-C60        CAPC3216N             3880mil       1340mil       3880mil       1340mil   3822.914mil       1340mil  T        360.00 Cap            
-C59        CAPC3216N             3580mil       1340mil       3580mil       1340mil   3522.914mil       1340mil  T        360.00 Cap            
-C58        CAPC3216N             3260mil       2040mil       3260mil       2040mil       3260mil   1982.914mil  T         90.00 Cap            
-C57        CAPC3216N             3160mil       2040mil       3160mil       2040mil       3160mil   1982.914mil  T         90.00 Cap            
-C56        CAPC3216N             4060mil       2100mil       4060mil       2100mil       4060mil   2042.914mil  T         90.00 Cap            
-C55        CAPC3216N             5120mil       2025mil       5120mil       2025mil       5120mil   1967.914mil  T         90.00 Cap            
-C54        CAPC3216N             5020mil       2020mil       5020mil       2020mil       5020mil   1962.914mil  T         90.00 Cap            
-C53        CAPC3216N             4200mil       1880mil       4200mil       1880mil   4257.087mil       1880mil  T        180.00 Cap            
-C52        CAPC3216N             4440mil       2060mil       4440mil       2060mil   4497.086mil       2060mil  T        180.00 Cap            
-C51        CAPC3216N             3890mil       2475mil       3890mil       2475mil       3890mil   2417.914mil  T         90.00 Cap            
-C50        CAPC3216N             3790mil       2475mil       3790mil       2475mil       3790mil   2417.914mil  T         90.00 Cap            
-C49        CAPC3216N             3480mil       2520mil       3480mil       2520mil       3480mil   2462.914mil  T         90.00 Cap            
-C48        CAPC3216N             3180mil       2180mil       3180mil       2180mil   3122.913mil       2180mil  T        360.00 Cap            
-C47        CAPC3216N             3120mil       2360mil       3120mil       2360mil   3062.913mil       2360mil  T        360.00 Cap            
-C46        CAPC3216N             4180mil       2400mil       4180mil       2400mil   4122.914mil       2400mil  T        360.00 Cap            
-C1         CAPC3216N             4700mil       1180mil       4700mil       1180mil   4642.913mil       1180mil  T          0.00 Cap            
-C2         CAPC3216N             5240mil       1840mil       5240mil       1840mil       5240mil   1897.087mil  T        270.00 Cap            
-C3         CAPC3216N         5025.433mil       2880mil   5025.433mil       2880mil   4968.346mil       2880mil  T        360.00 Cap            
-C4         CAPC3216N             5660mil       2580mil       5660mil       2580mil   5717.086mil       2580mil  T        180.00 Cap            
-C5         CAPC3216N             5295mil       2915mil       5295mil       2915mil   5237.914mil       2915mil  T        360.00 Cap            
-C6         CAPC3216N             4615mil       2570mil       4615mil       2570mil       4615mil   2627.086mil  T        270.00 Cap            
-C7         CAPC3216N             4800mil       2120mil       4800mil       2120mil       4800mil   2177.086mil  T        270.00 Cap            
-C8         CAPC3216N             5520mil       2480mil       5520mil       2480mil       5520mil   2537.087mil  T        270.00 Cap            
-C9         CAPC3216N             5420mil       2480mil       5420mil       2480mil       5420mil   2537.087mil  T        270.00 Cap            
-C10        CAPC3216N             5630mil       2305mil       5630mil       2305mil       5630mil   2362.086mil  T        270.00 Cap            
-C11        CAPC3216N             5730mil       2305mil       5730mil       2305mil       5730mil   2362.086mil  T        270.00 Cap            
-C12        CAPC3216N             4900mil       2120mil       4900mil       2120mil       4900mil   2177.086mil  T        270.00 Cap            
-C13        CAPC3216N             5390mil       2285mil       5390mil       2285mil       5390mil   2342.086mil  T        270.00 Cap            
-C14        CAPC3216N             5490mil       2285mil       5490mil       2285mil       5490mil   2342.086mil  T        270.00 Cap            
-C15        CAPC3216N             5900mil       2300mil       5900mil       2300mil       5900mil   2357.086mil  T        270.00 Cap            
-C16        CAPC3216N             1640mil       2900mil       1640mil       2900mil   1582.914mil       2900mil  T        360.00 Cap            
-C17        CAPC3216N             1550mil       2500mil       1550mil       2500mil       1550mil   2557.086mil  T        270.00 Cap            
-C18        CAPC3216N             1820mil       2900mil       1820mil       2900mil   1762.914mil       2900mil  T        360.00 Cap            
-C19        CAPC3216N             2160mil       2900mil       2160mil       2900mil   2217.086mil       2900mil  T        180.00 Cap            
-C20        CAPC3216N             2580mil       2780mil       2580mil       2780mil       2580mil   2837.086mil  T        270.00 Cap            
-C21        CAPC3216N             2680mil       2840mil       2680mil       2840mil       2680mil   2897.086mil  T        270.00 Cap            
-C22        CAPC3216N             2780mil       2840mil       2780mil       2840mil       2780mil   2897.086mil  T        270.00 Cap            
-C23        CAPC3216N             1920mil       1360mil       1920mil       1360mil       1920mil   1417.086mil  T        270.00 Cap            
-C24        CAPC3216N             2020mil       1340mil       2020mil       1340mil       2020mil   1397.086mil  T        270.00 Cap            
-C25        CAPC3216N             2177mil       1300mil       2177mil       1300mil       2177mil   1357.086mil  T        270.00 Cap            
-C26        CAPC3216N             2260mil       1300mil       2260mil       1300mil       2260mil   1357.086mil  T        270.00 Cap            
-C27        CAPC3216N             2900mil       1520mil       2900mil       1520mil   2842.914mil       1520mil  T        360.00 Cap            
-C28        CAPC3216N             2860mil       1420mil       2860mil       1420mil   2802.914mil       1420mil  T        360.00 Cap            
-C29        CAPC3216N             2120mil       2100mil       2120mil       2100mil   2062.914mil       2100mil  T        360.00 Cap            
-C30        CAPC3216N         2867.914mil       2840mil   2867.913mil       2840mil   2867.914mil   2897.086mil  T        270.00 Cap            
-C31        CAPC3216N         2967.914mil       2840mil   2967.913mil       2840mil   2967.914mil   2897.086mil  T        270.00 Cap            
-C32        CAPC3216N         3252.913mil       2740mil   3252.913mil       2740mil   3195.826mil       2740mil  T        360.00 Cap            
-C33        CAPC3216N         3142.913mil       2640mil   3142.913mil       2640mil   3085.826mil       2640mil  T        360.00 Cap            
-C34        CAPC3216N             3630mil       2860mil       3630mil       2860mil       3630mil   2917.087mil  T        270.00 Cap            
-C35        CAPC3216N         3532.914mil   2857.087mil   3532.913mil   2857.086mil   3532.914mil   2914.174mil  T        270.00 Cap            
-C36        CAPC3216N             3945mil   2670.866mil       3945mil   2670.866mil       3945mil   2727.952mil  T        270.00 Cap            
-C37        CAPC3216N             4045mil   2670.866mil       4045mil   2670.866mil       4045mil   2727.952mil  T        270.00 Cap            
-C38        CAPC3216N             4355mil       2630mil       4355mil       2630mil   4297.914mil       2630mil  T          0.00 Cap            
-C39        CAPC3216N             4155mil       2530mil       4155mil       2530mil   4097.914mil       2530mil  T          0.00 Cap            
-C40        CAPC3216N             4290mil       2880mil       4290mil       2880mil   4232.914mil       2880mil  T          0.00 Cap            
-C41        CAPC3216N         4599.999mil       2820mil       4600mil       2820mil   4599.999mil   2877.086mil  T        270.00 Cap            
-C42        CAPC3216N             5910mil       2055mil       5910mil       2055mil       5910mil   2112.086mil  T        270.00 Cap            
-C43        CAPC3216N             5490mil       2055mil       5490mil       2055mil       5490mil   2112.086mil  T        270.00 Cap            
-C44        CAPC3216N             5610mil       2035mil       5610mil       2035mil       5610mil   2092.086mil  T        270.00 Cap            
-C45        CAPC3216N             5810mil       2055mil       5810mil       2055mil       5810mil   2112.086mil  T        270.00 Cap            
-D1         SOD-323               5780mil       2500mil       5780mil       2500mil       5780mil    2453.74mil  T        270.00 Diode 1N4148   
-J1         BEL_L829-1X1T-91       5835mil       1560mil       5840mil       1560mil       5840mil       1750mil  T        270.00 L829-1X1T-91   
-L1         INDC2012L             5620mil       2480mil       5620mil       2480mil   5651.496mil       2480mil  T        180.00 Inductor       
-L2         INDC2012L             5040mil       2180mil       5040mil       2180mil   5008.504mil       2180mil  T        360.00 Inductor       
-L3         INDC2012L             5280mil       2380mil       5280mil       2380mil       5280mil   2348.504mil  T         90.00 Inductor       
-R39        RESC2012N             5335mil       1820mil       5335mil       1820mil       5335mil   1855.434mil  T        270.00 Res3           
-R40        RESC2012N             5115mil   1850.001mil       5115mil       1850mil       5115mil   1814.568mil  T         90.00 Res3           
-R41        RESC2012N             5035mil   1840.001mil       5035mil       1840mil       5035mil   1804.568mil  T         90.00 Res3           
-R42        RESC2012N             6200mil   2015.431mil       6200mil   2015.432mil       6200mil   2050.864mil  T        270.00 Res3           
-R43        RESC2012N             6200mil   2200.001mil       6200mil       2200mil       6200mil   2164.568mil  T         90.00 Res3           
-R44        RESC2012N             4980mil       2760mil       4980mil       2760mil   5015.434mil       2760mil  T        180.00 Res3           
-R45        RESC2012N             6080mil       2020mil       6080mil       2020mil       6080mil   2055.433mil  T        270.00 Res3           
-R46        RESC2012N         6079.999mil       2200mil       6080mil       2200mil   6079.999mil   2164.567mil  T         90.00 Res3           
-R47        RESC2012N             4700mil       2140mil       4700mil       2140mil       4700mil   2104.567mil  T         90.00 Res3           
-R48        RESC2012N         4619.999mil       2140mil       4620mil       2140mil   4619.999mil   2104.567mil  T         90.00 Res3           
-R49        RESC2012N         4479.999mil       2520mil       4480mil       2520mil   4515.432mil       2520mil  T        180.00 Res3           
-R50        RESC2012N             5900mil   2474.567mil       5900mil   2474.567mil       5900mil   2439.134mil  T         90.00 Res3           
-R51        RESC2012N             4560mil       2400mil       4560mil       2400mil       4560mil   2364.567mil  T         90.00 Res3           
-R52        RESC2012N         4799.999mil       2820mil       4800mil       2820mil   4799.999mil   2784.567mil  T         90.00 Res3           
-R53        RESC2012N         5005.433mil       2980mil   5005.433mil       2980mil   5040.866mil       2980mil  T        180.00 Res3           
-R54        RESC2012N             4780mil   2640.001mil       4780mil       2640mil       4780mil   2604.568mil  T         90.00 Res3           
-R55        RESC2012N             4440mil       2320mil       4440mil       2320mil   4475.433mil       2320mil  T        180.00 Res3           
-R56        RESC2012N             4440mil       2400mil       4440mil       2400mil   4475.433mil       2400mil  T        180.00 Res3           
-R57        RESC2012N             3020mil       2540mil       3020mil       2540mil   2984.566mil       2540mil  T        360.00 Res3           
-R58        RESC2012N             2900mil       2600mil       2900mil       2600mil       2900mil   2635.434mil  T        270.00 Res3           
-R59        RESC2012N             3000mil       2460mil       3000mil       2460mil   2964.566mil       2460mil  T        360.00 Res3           
-R60        RESC2012N             2820mil       2540mil       2820mil       2540mil       2820mil   2575.434mil  T        270.00 Res3           
-R61        RESC2012N         3432.914mil   2877.087mil   3432.913mil   2877.086mil   3432.914mil    2912.52mil  T        270.00 Res3           
-R62        RESC2012N         3432.914mil   2737.087mil   3432.913mil   2737.086mil   3432.914mil    2772.52mil  T        270.00 Res3           
-R63        RESC2012N             4510mil   2840.433mil       4510mil   2840.433mil       4510mil   2875.866mil  T        270.00 Res3           
-R64        RESC2012N             4510mil   2700.433mil       4510mil   2700.433mil       4510mil   2735.866mil  T        270.00 Res3           
-R65        RESC2012N             5710mil       2075mil       5710mil       2075mil       5710mil   2110.434mil  T        270.00 Res3           
-U1         AT91SAM9G20-CU        3700mil       2060mil       3700mil       2060mil   3448.032mil   1808.032mil  T         90.00 AT91SAM9G20B-CU
-U2         TSQFP50P900X900-48L       5040mil       2460mil       5040mil       2460mil   5198.464mil   2351.732mil  T        180.00 KSZ8041TL      
-U3         TSSOP50P2000-48AN       4960mil       1500mil       4960mil       1500mil   5337.952mil   1273.622mil  T        180.00 Micron MT29FxGxxAxxDAxx
-U4         TSOP2-54_N            2040mil   2600.001mil       2040mil       2600mil   1630.552mil    2377.56mil  T         90.00 MT48LCxxMxxA2x-xx
-U5         TSOP2-54_N            2330mil   1740.001mil       2330mil       1740mil   1920.552mil    1517.56mil  T         90.00 MT48LCxxMxxA2x-xx
-U6         TSSOP50P490-10AN   3182.913mil       2860mil   3182.913mil       2860mil   3102.204mil    2899.37mil  T        360.00 TPS60500       
-U7         TSSOP50P490-10AN       4255mil   2755.866mil       4255mil   2755.866mil   4174.292mil   2795.236mil  T        360.00 TPS60500       
-U8         SOT353-5AN            5340mil       1980mil       5340mil       1980mil   5299.646mil    2005.59mil  T        360.00 TPS717xx       
-Y1         HC49/4H_SMX           5420mil       2740mil       5420mil       2740mil   5607.008mil       2740mil  T        180.00 XTAL           
-Y2         HC49/4H_SMX           3780mil       1505mil       3780mil       1505mil   3967.008mil       1505mil  T        180.00 18.432 MHz     
+U10        DPAK-3            4881.732mil   1424.172mil       4740mil   1424.172mil       4740mil   1514.723mil  T        270.00 Volt Reg       
+C65        CAPC3216N             3520mil   1334.172mil       3520mil   1334.172mil   3462.913mil   1334.172mil  T        360.00 Cap            
+J8         HDR1X3                6040mil   1354.172mil       5940mil   1354.172mil       5940mil   1354.172mil  T        360.00 DBGU serial port
+RA9        742C083               6640mil   2529.172mil       6640mil   2529.172mil   6608.504mil   2576.416mil  T        270.00 RESISTOR ARRAY 
+RA14       742C083               6720mil   2374.172mil       6720mil   2374.172mil   6688.504mil   2421.416mil  T        270.00 RESISTOR ARRAY 
+RA13       742C083               6760mil   2234.172mil       6760mil   2234.172mil   6728.504mil   2281.416mil  T        270.00 RESISTOR ARRAY 
+RA12       742C083               6358mil   2514.172mil       6358mil   2514.172mil   6326.504mil   2561.416mil  T        270.00 RESISTOR ARRAY 
+RA11       742C083               6640mil   2714.172mil       6640mil   2714.172mil   6608.504mil   2761.416mil  T        270.00 RESISTOR ARRAY 
+RA10       742C083               6760mil   2614.172mil       6760mil   2614.172mil   6728.504mil   2661.416mil  T        270.00 RESISTOR ARRAY 
+RA8        742C083               7020mil   2954.172mil       7020mil   2954.172mil   6988.504mil   3001.416mil  T        270.00 RESISTOR ARRAY 
+RA7        742C083               7160mil   3014.172mil       7160mil   3014.172mil   7128.504mil   3061.416mil  T        270.00 RESISTOR ARRAY 
+RA6        742C083               5320mil   3094.172mil       5320mil   3094.172mil   5351.496mil   3046.928mil  T         90.00 RESISTOR ARRAY 
+RA5        742C083               5320mil   2614.172mil       5320mil   2614.172mil   5351.496mil   2566.928mil  T         90.00 RESISTOR ARRAY 
+RA4        742C083               5320mil   2934.172mil       5320mil   2934.172mil   5351.496mil   2886.928mil  T         90.00 RESISTOR ARRAY 
+RA3        742C083               5320mil   2774.172mil       5320mil   2774.172mil   5351.496mil   2726.928mil  T         90.00 RESISTOR ARRAY 
+RA2        742C083               4760mil   2454.172mil       4760mil   2454.172mil   4791.496mil   2406.928mil  T         90.00 RESISTOR ARRAY 
+RA1        742C083               4940mil   2434.172mil       4940mil   2434.172mil   4971.496mil   2386.928mil  T         90.00 RESISTOR ARRAY 
+J7         PJ-102AH           3677.89mil   1491.652mil       3796mil   1584.172mil       3796mil   1584.172mil  T         90.00 CENTER POSITIVE 2.1 MM POWER JACK
+R79        RESC2012N         5355.433mil   1854.172mil   5355.433mil   1854.172mil   5390.866mil   1854.172mil  T        180.00 Res3           
+R78        RESC2012N             3440mil   1814.172mil       3440mil   1814.172mil   3404.566mil   1814.172mil  T        360.00 Res3           
+D3         CD2012-0805           5500mil       1860mil       5500mil       1860mil   5537.401mil       1860mil  T        180.00 LED2           
+D2         CD2012-0805           3520mil   1914.172mil       3520mil   1914.172mil   3557.401mil   1914.172mil  T        180.00 LED2           
+J6         HDR1X8                6790mil   3254.172mil       7140mil   3254.172mil       7140mil   3254.172mil  T        180.00 ARDUINO_DIGITAL_HIGH_BYTE
+J5         HDR1X8                7650mil   3254.172mil       8000mil   3254.172mil       8000mil   3254.172mil  T        180.00 ARDUINO_DIGITAL_LOW_BYTE
+J4         HDR1X6                7050mil   1354.172mil       6800mil   1354.172mil       6800mil   1354.172mil  T        360.00 ARDUINO_SHIELD_POWER
+J3         HDR1X6                7750mil   1354.172mil       7500mil   1354.172mil       7500mil   1354.172mil  T        360.00 ARDUINO_ANALOG_IN
+R77        RESC2012N             6040mil   1854.172mil       6040mil   1854.172mil       6040mil   1818.738mil  T         90.00 Res3           
+J2         SAMTEC_FSI-110-06-L-D-E-AD-TR       7620mil   2274.172mil       7620mil   2274.172mil   7797.165mil   2126.534mil  B        180.00 ARM JTAG HEADER
+S1         B3F-1000              5680mil   1454.172mil       5680mil   1454.172mil    5561.89mil   1542.755mil  T        270.00 SW-PB          
+R76        RESC2012N             5780mil   1634.172mil       5780mil   1634.172mil   5815.434mil   1634.172mil  T        180.00 Res3           
+R75        RESC2012N             5920mil   1734.173mil       5920mil   1734.172mil       5920mil    1698.74mil  T         90.00 Res3           
+R74        RESC2012N             6240mil   1814.172mil       6240mil   1814.172mil   6275.434mil   1814.172mil  T        180.00 Res3           
+R72        RESC2012N         6020.001mil       1700mil       6020mil       1700mil   5984.568mil       1700mil  T        360.00 Res3           
+R71        RESC2012N         7559.999mil   2274.172mil       7560mil   2274.172mil   7595.432mil   2274.172mil  T        180.00 Res3           
+R70        RESC2012N         6880.001mil   2114.172mil       6880mil   2114.172mil   6844.568mil   2114.172mil  T        360.00 Res3           
+R69        RESC2012N         7940.001mil   2134.172mil       7940mil   2134.172mil   7904.568mil   2134.172mil  T        360.00 Res3           
+R68        RESC2012N             6340mil   2034.173mil       6340mil   2034.172mil       6340mil    1998.74mil  T         90.00 Res3           
+R67        RESC2012N             4890mil   3194.173mil       4890mil   3194.172mil       4890mil    3158.74mil  T         90.00 Res3           
+R66        RESC2012N             5265mil   2314.172mil       5265mil   2314.172mil   5300.433mil   2314.172mil  T        180.00 Res3           
+L5         INDC2012L             4790mil   3194.172mil       4790mil   3194.172mil   4758.504mil   3194.172mil  T        360.00 Inductor       
+L4         INDC2012L         5285.001mil   2384.172mil       5285mil   2384.172mil   5253.505mil   2384.172mil  T        360.00 Inductor       
+C60        CAPC3216N             5720mil   3014.172mil       5720mil   3014.172mil   5777.086mil   3014.172mil  T        180.00 Cap            
+C59        CAPC3216N             6020mil   3014.172mil       6020mil   3014.172mil   6077.086mil   3014.172mil  T        180.00 Cap            
+C58        CAPC3216N             6340mil   2314.172mil       6340mil   2314.172mil       6340mil   2371.258mil  T        270.00 Cap            
+C57        CAPC3216N             6440mil   2314.172mil       6440mil   2314.172mil       6440mil   2371.258mil  T        270.00 Cap            
+C56        CAPC3216N             5540mil   2254.172mil       5540mil   2254.172mil       5540mil   2311.258mil  T        270.00 Cap            
+C55        CAPC3216N             4970mil   3249.172mil       4970mil   3249.172mil       4970mil   3306.258mil  T        270.00 Cap            
+C54        CAPC3216N             5070mil   3254.172mil       5070mil   3254.172mil       5070mil   3311.258mil  T        270.00 Cap            
+C53        CAPC3216N             5400mil   2474.172mil       5400mil   2474.172mil   5342.913mil   2474.172mil  T        360.00 Cap            
+C52        CAPC3216N             5140mil   2374.172mil       5140mil   2374.172mil       5140mil   2431.258mil  T        270.00 Cap            
+C51        CAPC3216N             5710mil   1879.172mil       5710mil   1879.172mil       5710mil   1936.258mil  T        270.00 Cap            
+C50        CAPC3216N             5810mil   1879.172mil       5810mil   1879.172mil       5810mil   1936.258mil  T        270.00 Cap            
+C49        CAPC3216N             6120mil   1834.172mil       6120mil   1834.172mil       6120mil   1891.258mil  T        270.00 Cap            
+C48        CAPC3216N             6420mil   2174.172mil       6420mil   2174.172mil   6477.087mil   2174.172mil  T        180.00 Cap            
+C47        CAPC3216N             6480mil   1994.172mil       6480mil   1994.172mil   6537.087mil   1994.172mil  T        180.00 Cap            
+C46        CAPC3216N             5420mil   1954.172mil       5420mil   1954.172mil   5477.086mil   1954.172mil  T        180.00 Cap            
+C1         CAPC3216N             4920mil   2554.172mil       4920mil   2554.172mil   4862.913mil   2554.172mil  T        360.00 Cap            
+C2         CAPC3216N             4380mil   2514.172mil       4380mil   2514.172mil       4380mil   2457.085mil  T         90.00 Cap            
+C3         CAPC3216N             4560mil   1334.172mil       4560mil   1334.172mil   4502.913mil   1334.172mil  T        360.00 Cap            
+C4         CAPC3216N             4380mil   1654.172mil       4380mil   1654.172mil   4437.086mil   1654.172mil  T        180.00 Cap            
+C5         CAPC3216N             4215mil   1344.172mil       4215mil   1344.172mil   4272.086mil   1344.172mil  T        180.00 Cap            
+C6         CAPC3216N             4985mil   1784.172mil       4985mil   1784.172mil       4985mil   1727.086mil  T         90.00 Cap            
+C7         CAPC3216N             4800mil   2234.172mil       4800mil   2234.172mil       4800mil   2177.086mil  T         90.00 Cap            
+C8         CAPC3216N             4085mil   1834.172mil       4085mil   1834.172mil       4085mil   1777.085mil  T         90.00 Cap            
+C9         CAPC3216N             4185mil   1834.172mil       4185mil   1834.172mil       4185mil   1777.085mil  T         90.00 Cap            
+C10        CAPC3216N             3980mil   2029.172mil       3980mil   2029.172mil       3980mil   1972.086mil  T         90.00 Cap            
+C11        CAPC3216N             3880mil   2029.172mil       3880mil   2029.172mil       3880mil   1972.086mil  T         90.00 Cap            
+C12        CAPC3216N             4700mil   2234.172mil       4700mil   2234.172mil       4700mil   2177.086mil  T         90.00 Cap            
+C13        CAPC3216N             4215mil   2034.172mil       4215mil   2034.172mil       4215mil   1977.086mil  T         90.00 Cap            
+C14        CAPC3216N             4115mil   2034.172mil       4115mil   2034.172mil       4115mil   1977.086mil  T         90.00 Cap            
+C15        CAPC3216N             3700mil   2034.172mil       3700mil   2034.172mil       3700mil   1977.086mil  T         90.00 Cap            
+C16        CAPC3216N             7925mil   1454.172mil       7925mil   1454.172mil   7982.086mil   1454.172mil  T        180.00 Cap            
+C17        CAPC3216N             8080mil   1854.172mil       8080mil   1854.172mil       8080mil   1797.086mil  T         90.00 Cap            
+C18        CAPC3216N             7745mil   1454.172mil       7745mil   1454.172mil   7802.086mil   1454.172mil  T        180.00 Cap            
+C19        CAPC3216N             7440mil   1454.172mil       7440mil   1454.172mil   7382.914mil   1454.172mil  T        360.00 Cap            
+C20        CAPC3216N             7020mil   1574.172mil       7020mil   1574.172mil       7020mil   1517.086mil  T         90.00 Cap            
+C21        CAPC3216N             6920mil   1514.172mil       6920mil   1514.172mil       6920mil   1457.086mil  T         90.00 Cap            
+C22        CAPC3216N             6820mil   1514.172mil       6820mil   1514.172mil       6820mil   1457.086mil  T         90.00 Cap            
+C23        CAPC3216N             7680mil   2994.172mil       7680mil   2994.172mil       7680mil   2937.086mil  T         90.00 Cap            
+C24        CAPC3216N             7580mil   3014.172mil       7580mil   3014.172mil       7580mil   2957.086mil  T         90.00 Cap            
+C25        CAPC3216N             7423mil   3054.172mil       7423mil   3054.172mil       7423mil   2997.086mil  T         90.00 Cap            
+C26        CAPC3216N             7340mil   3054.172mil       7340mil   3054.172mil       7340mil   2997.086mil  T         90.00 Cap            
+C27        CAPC3216N             6700mil   2834.172mil       6700mil   2834.172mil   6757.086mil   2834.172mil  T        180.00 Cap            
+C28        CAPC3216N             6740mil   2934.172mil       6740mil   2934.172mil   6797.086mil   2934.172mil  T        180.00 Cap            
+C29        CAPC3216N             7500mil   2154.172mil       7500mil   2154.172mil   7557.086mil   2154.172mil  T        180.00 Cap            
+C30        CAPC3216N         6732.086mil   1514.172mil   6732.087mil   1514.172mil   6732.086mil   1457.086mil  T         90.00 Cap            
+C31        CAPC3216N         6632.086mil   1514.172mil   6632.087mil   1514.172mil   6632.086mil   1457.086mil  T         90.00 Cap            
+C32        CAPC3216N         6347.087mil   1614.172mil   6347.087mil   1614.172mil   6404.174mil   1614.172mil  T        180.00 Cap            
+C33        CAPC3216N         6457.087mil   1714.172mil   6457.087mil   1714.172mil   6514.174mil   1714.172mil  T        180.00 Cap            
+C34        CAPC3216N             5960mil   1514.172mil       5960mil   1514.172mil       5960mil   1457.085mil  T         90.00 Cap            
+C35        CAPC3216N         6067.086mil   1497.085mil   6067.087mil   1497.085mil   6067.086mil   1439.998mil  T         90.00 Cap            
+C36        CAPC3216N             5655mil   1683.306mil       5655mil   1683.306mil       5655mil    1626.22mil  T         90.00 Cap            
+C37        CAPC3216N             5555mil   1683.306mil       5555mil   1683.306mil       5555mil    1626.22mil  T         90.00 Cap            
+C38        CAPC3216N             5220mil   1734.172mil       5220mil   1734.172mil   5162.914mil   1734.172mil  T        360.00 Cap            
+C39        CAPC3216N             5420mil   1734.172mil       5420mil   1734.172mil   5477.086mil   1734.172mil  T        180.00 Cap            
+C40        CAPC3216N             5310mil   1474.172mil       5310mil   1474.172mil   5367.086mil   1474.172mil  T        180.00 Cap            
+C41        CAPC3216N         5079.999mil   1654.172mil       5080mil   1654.172mil   5079.999mil   1711.258mil  T        270.00 Cap            
+C42        CAPC3216N             4180mil   3219.172mil       4180mil   3219.172mil       4180mil   3162.086mil  T         90.00 Cap            
+C43        CAPC3216N             4580mil   3194.172mil       4580mil   3194.172mil       4580mil   3137.086mil  T         90.00 Cap            
+C44        CAPC3216N             4480mil   3234.172mil       4480mil   3234.172mil       4480mil   3177.086mil  T         90.00 Cap            
+C45        CAPC3216N             4280mil   3219.172mil       4280mil   3219.172mil       4280mil   3162.086mil  T         90.00 Cap            
+D1         SOD-323               3780mil   1959.172mil       3780mil   1959.172mil       3780mil   2005.432mil  T         90.00 Diode 1N4148   
+J1         BEL_L829-1X1T-91       3765mil   2554.172mil       3760mil   2554.172mil       3760mil   2364.172mil  T         90.00 L829-1X1T-91   
+L1         INDC2012L             3920mil   1854.172mil       3920mil   1854.172mil   3888.504mil   1854.172mil  T        360.00 Inductor       
+L2         INDC2012L             4560mil   2174.172mil       4560mil   2174.172mil   4591.496mil   2174.172mil  T        180.00 Inductor       
+L3         INDC2012L             4320mil   1974.172mil       4320mil   1974.172mil       4320mil   2005.668mil  T        270.00 Inductor       
+R39        RESC2012N             4400mil   2334.172mil       4400mil   2334.172mil   4364.566mil   2334.172mil  T        360.00 Res3           
+R40        RESC2012N             4485mil   2504.171mil       4485mil   2504.172mil       4485mil   2539.604mil  T        270.00 Res3           
+R41        RESC2012N             4565mil   2514.171mil       4565mil   2514.172mil       4565mil   2549.604mil  T        270.00 Res3           
+R42        RESC2012N         3460.001mil   3034.172mil       3460mil   3034.172mil   3424.568mil   3034.172mil  T        360.00 Res3           
+R43        RESC2012N             3420mil   2054.171mil       3420mil   2054.172mil       3420mil   2089.604mil  T        270.00 Res3           
+R44        RESC2012N             4700mil   1604.172mil       4700mil   1604.172mil   4664.566mil   1604.172mil  T        360.00 Res3           
+R45        RESC2012N             4380mil   2154.172mil       4380mil   2154.172mil   4415.433mil   2154.172mil  T        180.00 Res3           
+R46        RESC2012N         3500.001mil   2054.172mil       3500mil   2054.172mil   3500.001mil   2089.605mil  T        270.00 Res3           
+R47        RESC2012N             4900mil   2214.172mil       4900mil   2214.172mil       4900mil   2249.605mil  T        270.00 Res3           
+R48        RESC2012N         4980.001mil   2214.172mil       4980mil   2214.172mil   4980.001mil   2249.605mil  T        270.00 Res3           
+R49        RESC2012N         5120.001mil   1834.172mil       5120mil   1834.172mil   5084.568mil   1834.172mil  T        360.00 Res3           
+R50        RESC2012N             3620mil   2014.172mil       3620mil   2014.172mil       3620mil   2049.605mil  T        270.00 Res3           
+R51        RESC2012N             5040mil   1954.172mil       5040mil   1954.172mil       5040mil   1989.605mil  T        270.00 Res3           
+R52        RESC2012N             4940mil   1614.173mil       4940mil   1614.172mil   4904.567mil   1614.173mil  T        360.00 Res3           
+R53        RESC2012N             4390mil   1354.172mil       4390mil   1354.172mil   4354.567mil   1354.172mil  T        360.00 Res3           
+R54        RESC2012N             4820mil   1714.171mil       4820mil   1714.172mil       4820mil   1749.604mil  T        270.00 Res3           
+R55        RESC2012N             5160mil   1994.172mil       5160mil   1994.172mil   5195.433mil   1994.172mil  T        180.00 Res3           
+R56        RESC2012N             5160mil   1924.172mil       5160mil   1924.172mil   5124.567mil   1924.172mil  T        360.00 Res3           
+R57        RESC2012N             6580mil   1814.172mil       6580mil   1814.172mil   6615.434mil   1814.172mil  T        180.00 Res3           
+R58        RESC2012N             6700mil   1754.172mil       6700mil   1754.172mil       6700mil   1718.738mil  T         90.00 Res3           
+R59        RESC2012N             6600mil   1894.172mil       6600mil   1894.172mil   6635.434mil   1894.172mil  T        180.00 Res3           
+R60        RESC2012N             6780mil   1814.172mil       6780mil   1814.172mil       6780mil   1778.738mil  T         90.00 Res3           
+R61        RESC2012N         6167.086mil   1477.085mil   6167.087mil   1477.085mil   6167.086mil   1441.652mil  T         90.00 Res3           
+R62        RESC2012N         6167.086mil   1617.085mil   6167.087mil   1617.085mil   6167.086mil   1581.652mil  T         90.00 Res3           
+R63        RESC2012N             5360mil   1374.172mil       5360mil   1374.172mil   5395.433mil   1374.172mil  T        180.00 Res3           
+R64        RESC2012N             5220mil   1374.172mil       5220mil   1374.172mil   5255.433mil   1374.172mil  T        180.00 Res3           
+R65        RESC2012N             4380mil   3199.172mil       4380mil   3199.172mil       4380mil   3163.738mil  T         90.00 Res3           
+U1         AT91SAM9G20-CU        5900mil   2294.172mil       5900mil   2294.172mil   6151.968mil    2546.14mil  T        270.00 AT91SAM9G20B-CU
+U2         TSQFP50P900X900-48L       4560mil   1894.172mil       4560mil   1894.172mil   4401.536mil    2002.44mil  T        360.00 KSZ8041TL      
+U3         TSSOP50P2000-48AN       4640mil   2854.172mil       4640mil   2854.172mil   4262.048mil    3080.55mil  T        360.00 Micron MT29FxGxxAxxDAxx
+U4         TSOP2-54_N            7560mil   1754.171mil       7560mil   1754.172mil   7969.448mil   1976.612mil  T        270.00 MT48LCxxMxxA2x-xx
+U5         TSOP2-54_N            7270mil   2614.171mil       7270mil   2614.172mil   7679.448mil   2836.612mil  T        270.00 MT48LCxxMxxA2x-xx
+U6         TSSOP50P490-10AN   6417.087mil   1494.172mil   6417.087mil   1494.172mil   6497.796mil   1454.802mil  T        180.00 TPS60500       
+U7         TSSOP50P490-10AN       5345mil   1598.306mil       5345mil   1598.306mil   5425.708mil   1558.936mil  T        180.00 TPS60500       
+U8         SOT353-5AN        4770.004mil   3289.176mil   4770.004mil   3289.176mil    4729.65mil   3314.766mil  T        360.00 TPS717xx       
+Y1         HC49/4H_SMX           4320mil   1494.172mil       4320mil   1494.172mil   4132.992mil   1494.172mil  T        360.00 XTAL           
+Y2         HC49/4H_SMX           5820mil   2849.172mil       5820mil   2849.172mil   5632.992mil   2849.172mil  T        360.00 18.432 MHz     
+R80        RESC2012N             4500mil   2314.172mil       4500mil   2314.172mil       4500mil   2349.605mil  T        270.00 Res3           
+R81        RESC2012N             4580mil   2294.172mil       4580mil   2294.172mil       4580mil   2258.739mil  T         90.00 Res3           
+U9         SOIC127P600-8N        5260mil   2134.172mil       5260mil   2134.172mil   5165.512mil   2209.172mil  T        360.00 SST25VF032B    
+C61        CAPC3216N             4100mil   3034.172mil       4100mil   3034.172mil       4100mil   3091.259mil  T        270.00 Cap            
+C62        CAPC3216N             4280mil   2454.172mil       4280mil   2454.172mil       4280mil   2397.085mil  T         90.00 Cap            
+C63        CAPC3216N             3940mil   1594.172mil       3940mil   1594.172mil   3997.087mil   1594.172mil  T        180.00 Cap            
+C64        CAPC3216N             3715mil   1834.172mil       3715mil   1834.172mil   3772.087mil   1834.172mil  T        180.00 Cap            
+R82        RESC2012N             5380mil   2324.172mil       5380mil   2324.172mil       5380mil   2359.605mil  T        270.00 Res3           
+R83        RESC2012N             4220mil   1674.172mil       4220mil   1674.172mil       4220mil   1709.605mil  T        270.00 Res3           
+R84        RESC2012N             4080mil   1674.172mil       4080mil   1674.172mil       4080mil   1709.605mil  T        270.00 Res3           
+R85        RESC2012N             3975mil   1714.172mil       3975mil   1714.172mil       3975mil   1749.605mil  T        270.00 Res3           
+R86        RESC2012N             3880mil   1714.172mil       3880mil   1714.172mil       3880mil   1749.605mil  T        270.00 Res3           
 
