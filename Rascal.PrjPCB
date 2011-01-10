@@ -2,8 +2,8 @@
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
-OutputPath=Project Outputs for Thermopyla
-LogFolderPath=
+OutputPath=..\PCB
+LogFolderPath=Project Logs
 ChannelDesignatorFormatString=$Component_$RoomName
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
@@ -72,7 +72,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document4]
-DocumentPath=..\Projects\Altium Library\Project Outputs for Rascal\Rascal.IntLib
+DocumentPath=..\Projects\Altium Library\Rascal.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -91,7 +91,7 @@ DocumentPath=Bill of Materials-Rascal.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Thermopyla\Design Rule Check - Rascal.html
+DocumentPath=Design Rule Check - Rascal.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
