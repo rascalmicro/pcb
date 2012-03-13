@@ -100,6 +100,7 @@ Used DCodes :
     D37
     D48
     D49
+    D50
     D51
     D52
     D53
@@ -109,7 +110,6 @@ Used DCodes :
     D57
     D58
     D59
-    D60
     D61
     D62
     D63
@@ -128,7 +128,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D23
+    D10
     D34
     D35
     D36
@@ -276,7 +276,7 @@ Generating : Bottom Solder
 Used DCodes :
     D37
     D47
-    D84
+    D71
     D95
     D96
     D97
