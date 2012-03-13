@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: Rascal.PcbDoc   1/10/2011  3:58:55 PM
+NCDrill File Report For: Rascal.PcbDoc   1/31/2012  11:02:44 AM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,18 +8,18 @@ EIA File   : Rascal.DRL
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        10mil (0.254mm)          Round          289              26.76 Inch (679.78 mm)
-T2        16mil (0.4064mm)         Round          253              47.19 Inch (1198.60 mm)
-T3        35mil (0.889mm)          Round          12               4.65 Inch (118.23 mm)
-T4        35.43mil (0.89992mm)     Round          62               13.81 Inch (350.89 mm)
-T5        50mil (1.27mm)           Round          9                3.17 Inch (80.44 mm)
-T6        62mil (1.5748mm)         Round          2                0.69 Inch (17.58 mm)
-T7        128mil (3.2512mm)        Round          2                0.38 Inch (9.65 mm)
-T8        40mil (1.016mm)          Round          1         NPTH   0.00 Inch (0.00 mm)
-T9        47mil (1.1938mm)         Round          2         NPTH   0.35 Inch (9.00 mm)
-T10       100mil (2.54mm)          Round          2         NPTH   0.68 Inch (17.24 mm)
-T11       125mil (3.175mm)         Round          5         NPTH   11.54 Inch (293.07 mm)
+T1        10mil (0.254mm)          Round          343              40.66 Inch (1032.76 mm)
+T2        12.99mil (0.32995mm)     Round          9                0.38 Inch (9.60 mm)
+T3        16mil (0.4064mm)         Round          170              37.45 Inch (951.36 mm)
+T4        35mil (0.889mm)          Round          8                2.93 Inch (74.54 mm)
+T5        35.43mil (0.89992mm)     Round          52               10.13 Inch (257.19 mm)
+T6        36.22mil (0.91999mm)     Round          8                0.65 Inch (16.62 mm)
+T7        50mil (1.27mm)           Round          7                2.16 Inch (54.80 mm)
+T8        62mil (1.5748mm)         Round          2                0.69 Inch (17.58 mm)
+T9        90.55mil (2.29997mm)     Round          4                0.96 Inch (24.50 mm)
+T10       128mil (3.2512mm)        Round          2                0.38 Inch (9.65 mm)
+T11       125mil (3.175mm)         Round          5         NPTH   11.24 Inch (285.48 mm)
 ---------------------------------------------------------------------------
-Totals                                            639              109.23 Inch (2774.48 mm)
+Totals                                            610              107.64 Inch (2734.08 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:00

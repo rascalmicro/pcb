@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Rascal.GBR   1/10/2011  3:58:51 PM
+Gerber File Extension Report For: Rascal.GBR   1/31/2012  11:02:39 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -8,11 +8,12 @@ Layer Extension     Layer Description
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
 .GP1                Ground Plane                            
-.GP2                3V3 Plane                               
+.GP2                Power Plane                             
 .GBL                Bottom Layer                            
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
 ------------------------------------------------------------------------------------------
